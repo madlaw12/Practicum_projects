@@ -9,4 +9,4 @@
 
 ## Вывод
 
-Лучшая метрика у модели CatBoostRegressor.
+Лучшая метрика у модели LinearRegression.
